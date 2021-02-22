@@ -1,6 +1,8 @@
 # part-grabbing
 
 <img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/11%23133%2330_2.png" width=375 alt="example1"/>
+<img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/16%23219%23247_2.png" width=375 alt="example1"/>
+
 
 For the sake of commercial copyright protection, this project only opens part of the data.
 
