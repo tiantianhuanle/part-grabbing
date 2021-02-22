@@ -1,8 +1,7 @@
 # part-grabbing
-<BODY>
-<img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/11%23133%2330_2.png" width=275 alt="example1"/>
-<img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/16%23219%23247_2.png" width=275 alt="example2"/>
-</BODY>
+<center class="half">
+    <img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/11%23133%2330_2.png" width=275 alt="example1"/><img src="https://github.com/tiantianhuanle/part-grabbing/blob/main/example/16%23219%23247_2.png" width=275 alt="example2"/> </center>
+
 
 For the sake of commercial copyright protection, this project only opens part of the data.
 
