@@ -35,8 +35,8 @@ Here are some example shape of the real part in the heavy manufacturing.
  </div>
  
  
-
+One pixel corresponds to the actual 1cm; you can design your own ideal combination splicing sucker to grab the parts.
 
 For the sake of commercial copyright protection, this project only opens part of the data.
 
-If you need more data or have any questions, please contact 2453302730@qq.com.
+If you want more data or have any questions, please contact 2453302730@qq.com.
